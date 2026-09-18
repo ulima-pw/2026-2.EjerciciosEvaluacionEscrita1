@@ -64,7 +64,7 @@ Crear una herramienta que calcule el costo de un pedido utilizando cajas de text
 4. Lógica: Aplicar un descuento del 15% si el total supera los $200.
 5. Restricción Técnica: Toda interacción debe ser mediante .value.
 
-[Imagen P2_1](./imagenes/pregunta2_1.png) [Imagen P2_2](./imagenes/pregunta2_2.png)
+![Imagen P2_1](./imagenes/pregunta2_1.png) ![Imagen P2_2](./imagenes/pregunta2_2.png)
 
 ### Rúbrica
 
