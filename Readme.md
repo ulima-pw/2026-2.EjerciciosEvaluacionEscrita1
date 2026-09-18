@@ -12,7 +12,7 @@ En su documento HTML, tenerlo importado:
 
 > [!NOTE]
 > No olvidarse de crear el archivo `tailwind.config.js` para que la extensión de VSCode pueda darles las funcionalidades de ayuda.
-
+ 
 ---
 
 ## Ejercicio 1
@@ -37,8 +37,10 @@ Debes implementar una tarjeta de perfil de usuario profesional para una red soci
 6. Botones de Acción:
     - Incluir dos botones: "Mensaje" (estilo secundario) y "Seguir" (estilo llamativo/primario).
     - Al pasar el ratón (hover), los botones deben cambiar ligeramente de tono o escala.
+    - Para la imagen, utilizar el placeholder que se llama `pregunta1.svg` que se encuentra dentro de la carpeta imagenes.
 
-![Imagen de Pregunta 1](./imagenes/pregunta1.svg)
+
+![Imagen de Pregunta 1](./imagenes/pregunta1.png)
 
 ### Rúbrica
 
